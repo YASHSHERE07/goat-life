@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- White circle background -->
+  <circle cx="32" cy="32" r="32" fill="#ffffff"/>
+  <!-- Brown G -->
+  <text
+    x="32"
+    y="46"
+    text-anchor="middle"
+    font-family="'Georgia', 'Times New Roman', serif"
+    font-size="42"
+    font-weight="700"
+    fill="#7a5240"
+    letter-spacing="-1"
+  >G</text>
+</svg>
