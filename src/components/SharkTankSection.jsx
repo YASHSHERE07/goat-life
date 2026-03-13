@@ -2,10 +2,10 @@ import { useRef, useState } from "react";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-
+import photo from "../assets/images/shark.webp";
 // Replace with your actual photo import
 // import sharkTankPhoto from "../assets/images/shark-tank.jpg";
-const sharkTankPhoto = "src/assets/images/shark.webp";
+const sharkTankPhoto = photo;
 
 gsap.registerPlugin(ScrollTrigger);
 
